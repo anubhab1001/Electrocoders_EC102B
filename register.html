@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Registration</title>
+    <link rel="stylesheet" href="registerStyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body >
+
+
+    <h1>User Registration</h1>
+<hr>
+<div id="page">
+    <form action="submit_registration.php" method="post"> 
+        <p><label for="username"><i class="fa-regular fa-user"></i> Username:</label><br>
+        <input type="text" id="username" name="username" required >
+        <br></p>
+        <p> <label for="email"><i class="fa-solid fa-at"></i> Email:</label><br>
+        <input type="email" id="email" name="email" required>
+        <br></p>
+        <p><label for="password"><i class="fa-solid fa-key"></i> Password:</label><br>
+        <input type="password" id="password" name="password" required>
+        <br></p>
+        <p><label for="confirm_password"><i class="fa-solid fa-key"></i> Confirm Password:</label><br><input type="password" id="confirm_password" name="confirm_password" required>
+        <br></p>
+        <p id="register"><button type="submit" >Register</button></p>
+    </form>
+</div>
+<div id="blank"></div>
+<hr>
+<p id="return"><a href="index0.html" id="return_2"><i class="fa-solid fa-person-walking-arrow-loop-left"></i> Want to return to Home Page ?</a></p>
+<hr>
+<footer>
+    <p>&copy; 2024 eletrocoders. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

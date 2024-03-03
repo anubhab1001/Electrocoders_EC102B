@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5CAC3;
+   
+}
+#page{
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display:flex;
+    justify-content: center;
+    background-color:#F28284
+}
+#blank{
+    height:100px;
+   
+}
+footer{
+    text-align:center;
+}
+h1{
+    text-align:center;
+}
+#register{
+    text-align:center;
+}
+#return{
+    text-align:center;
+}
+#return_2{
+    text-decoration: none;
+    color: black;
+}
