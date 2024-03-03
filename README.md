@@ -1,42 +1,18 @@
 # Project ID - EC102B
 
-# Hacking Guide for Smart-Cart 😎
+1.	We added pages for Home,About, Product,Contact,Login,Register. --![login](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/73606791-26d1-49b2-988e-68e5cb5759cb) 
 
-## .Smart-Cart 🤞
+2.	We formed a landing page --![home_page](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/80aa922b-f4ec-40b8-8b7c-a1799c137acf)
+3.	We provided an animation for the Landing Page 
+4.	We made some small modifications inside the Hero page such as changing the “Buy now” button, resizing the Logo and the picture . -- ![smartcart](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/5b0407d8-e251-402c-933a-e16e47886e97)
+5.	We provided a linear colour theme for the website
+6.	In Product, We have shown the different products that our website sells with their prices in rupees. --![product](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/432747d2-31a8-43da-92ec-222774a605bd)
 
-It is a E-commerce made with HTML CSS 😊
+7.	In About, We gave necessary details about our website --![about](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/70a3c19b-ec0d-4574-9f9d-b61c4606cb8e)
 
+8.	In Contact, We shared our social media and LinkedIN handle --![contact](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/425a4113-ba63-4c05-aa1f-051dc85af4f3)
 
-## How to setup it on your device ?? 🤔
-
-### 🤞 Step 1
-
-Click on Fork and rename it as
-
-#### TeamName_ProjectID
-### 🤞 Step 2 
-Copy the https link from Code Section
-
-#### Open Command Prompt and type
-
-```http
-  cd desktop
-  git clone <https link>
-```
-Now the project is on your desktop now open it with your code editor
-now you are got to go for hacking !!
-
-
-## 😒 What You are  able to change? 
-1. Given Colors
-2. Logo
-3. Landing page Image
-4. Landing Text Design
-5. Make it a single page on scroll or multipage as you wish
+For better reference you may concern the video -- 
 
 
 
-
-## 👌 Ask your doubt on Discord
-
-[Click Here](https://discord.com/invite/8qJBt5pby5)  👈👈
