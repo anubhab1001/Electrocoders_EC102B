@@ -1,0 +1,22 @@
+#logo{
+    display:flex;
+    justify-content:center;
+    
+}
+@keyframes zoomInOut {
+    0% {
+      transform: scale(1); /* Initial size */
+    }
+    50% {
+      transform: scale(1.2); /* Zoom in */
+    }
+    100% {
+      transform: scale(1); /* Zoom out */
+    }
+  }
+  #logo {
+    animation: zoomInOut 2s infinite alternate;
+  }
+  /*body{
+    background-image: linear-gradient(#ffe4c4,#fff8e7);
+  }*/

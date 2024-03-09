@@ -1,23 +1,49 @@
-# Project ID - EC102B
+# Hacking Guide for SMARTCART 😎
 
-1.	We added pages for Home,About, Product,Contact,Login,Register. --![login](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/73606791-26d1-49b2-988e-68e5cb5759cb) 
+## SMARTCART 🤞
 
-2.	We formed a landing page --![home_page](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/80aa922b-f4ec-40b8-8b7c-a1799c137acf)
-3.	We provided an animation for the Landing Page 
-4.	We made some small modifications inside the Hero page such as changing the “Buy now” button, resizing the Logo and the picture . -- ![smartcart](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/5b0407d8-e251-402c-933a-e16e47886e97)
-5.	We provided a linear colour theme for the website
-6.	In Product, We have shown the different products that our website sells with their prices in rupees. --![product](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/432747d2-31a8-43da-92ec-222774a605bd)
+##Tech Stack-
 
-7.	In About, We gave necessary details about our website --![about](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/70a3c19b-ec0d-4574-9f9d-b61c4606cb8e)
-
-8.	In Contact, We shared our social media and LinkedIN handle --![contact](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/425a4113-ba63-4c05-aa1f-051dc85af4f3)
-
-For better reference you may concern the video -- 
-https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/445551f8-f0f9-4706-87b9-1f4101b14c50
+It is a E-commerce website made with HTML and CSS 😊
 
 
+## How to setup it on your device ?? 🤔
+
+### 🤞 Step 1
+
+Click on Fork and rename it as
+
+#### TeamName_ProjectID
+### 🤞 Step 2 
+Copy the https link from Code Section
+
+#### Open Command Prompt and type
+
+```http
+  cd desktop
+  git clone <https link>
+```
+Now the project is on your desktop now open it with your code editor
+### 🤞 step 3
+open terminal on the project and type 
+```http
+  cd SMARTCART
+```
+now you are got to go for hacking !!
 
 
 
 
 
+## 😒 What You are not able to change? 
+
+* Don't change the landing page
+* You can change the logo colour, text etc
+* You can add another pages
+* You can change navbar
+* Make it single page on scroll or multipage as you wish
+
+
+## 👌 Ask your doubt on Discord
+
+[Click Here](https://discord.com/invite/8qJBt5pby5)  👈👈
