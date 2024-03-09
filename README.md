@@ -21,6 +21,7 @@ It's all about our project.
 <img width="960" alt="Screenshot 2024-03-09 172906" src="https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/059592e5-30a6-4ef5-bcf3-bde69d1f0610">
 <img width="960" alt="Screenshot 2024-03-09 172837" src="https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/144d9e13-38fe-4d6d-9e5a-8cfe15f49cd9">
 <img width="960" alt="Screenshot 2024-03-09 172807" src="https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/de7da7e1-3bbe-4121-8cee-c01112abfa3a">
-![WhatsApp Image 2024-03-09 at 5 35 35 PM](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/dfd669c4-fa10-491e-b252-5420271566cd)
+![WhatsApp Image 2024-03-09 at 5 35 35 PM](https://github.com/anubhab1001/Electrocoders_EC102B/assets/161861837/1d2d477e-8c63-4099-8dae-ddf9f8db1889)
+
 
 
